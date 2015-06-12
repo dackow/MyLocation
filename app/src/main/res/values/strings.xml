@@ -3,4 +3,14 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+
+    <string-array name="menu_options">
+        <item>GPS</item>
+        <item>Network</item>
+        <item>Cell</item>
+    </string-array>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
